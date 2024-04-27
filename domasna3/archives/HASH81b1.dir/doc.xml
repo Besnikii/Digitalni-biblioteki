@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\RHVhIExpcGEgLSBOZXcgUnVsZXMgKE9mZmljaWFsIE11c2ljIFZpZGVvKQ==.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">5392437</Metadata>
+    <Metadata name="Source">Dua Lipa - New Rules (Official Music Video).mp3</Metadata>
+    <Metadata name="SourceFile">RHVhIExpcGEgLSBOZXcgUnVsZXMgKE9mZmljaWFsIE11c2ljIFZpZGVvKQ==.mp3</Metadata>
+    <Metadata name="mp3">Dua Lipa - New Rules (Official Music Video)</Metadata>
+    <Metadata name="srcurl">RHVhIExpcGEgLSBOZXcgUnVsZXMgKE9mZmljaWFsIE11c2ljIFZpZGVvKQ==.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">RHVhIExpcGEgLSBOZXcgUnVsZXMgKE9mZmljaWFsIE11c2ljIFZpZGVvKQ==.mp3</Metadata>
+    <Metadata name="srclinkFile">RHVhIExpcGEgLSBOZXcgUnVsZXMgKE9mZmljaWFsIE11c2ljIFZpZGVvKQ==.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="Title">Dua Lipa - New Rules (Official Music Video)</Metadata>
+    <Metadata name="Identifier">HASH81b10675a34c2061648900</Metadata>
+    <Metadata name="lastmodified">1714226192</Metadata>
+    <Metadata name="lastmodifieddate">20240427</Metadata>
+    <Metadata name="oailastmodified">1714226272</Metadata>
+    <Metadata name="oailastmodifieddate">20240427</Metadata>
+    <Metadata name="assocfilepath">HASH81b1.dir</Metadata>
+    <Metadata name="gsdlassocfile">RHVhIExpcGEgLSBOZXcgUnVsZXMgKE9mZmljaWFsIE11c2ljIFZpZGVvKQ==.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

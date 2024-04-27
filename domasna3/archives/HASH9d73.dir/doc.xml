@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\dualipa.jpeg</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="Image">dualipa.jpeg</Metadata>
+    <Metadata name="OrigSource">dualipa.jpeg</Metadata>
+    <Metadata name="Source">dualipa.jpeg</Metadata>
+    <Metadata name="SourceFile">dualipa.jpeg</Metadata>
+    <Metadata name="FileFormat">unknown</Metadata>
+    <Metadata name="FileSize">619784</Metadata>
+    <Metadata name="ImageType">unknown</Metadata>
+    <Metadata name="ImageWidth">unknown</Metadata>
+    <Metadata name="ImageHeight">unknown</Metadata>
+    <Metadata name="ImageSize">unknown</Metadata>
+    <Metadata name="srclink_file">dualipa.jpeg</Metadata>
+    <Metadata name="srclinkFile">dualipa.jpeg</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; width=&quot;[ImageWidth]&quot; height=&quot;[ImageHeight]&quot;&gt;</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="Title">dualipa</Metadata>
+    <Metadata name="Identifier">HASH9d73f1a0c01842d55c8b8c</Metadata>
+    <Metadata name="lastmodified">1714226191</Metadata>
+    <Metadata name="lastmodifieddate">20240427</Metadata>
+    <Metadata name="oailastmodified">1714226284</Metadata>
+    <Metadata name="oailastmodifieddate">20240427</Metadata>
+    <Metadata name="assocfilepath">HASH9d73.dir</Metadata>
+    <Metadata name="gsdlassocfile">dualipa.jpeg:image/unknown:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

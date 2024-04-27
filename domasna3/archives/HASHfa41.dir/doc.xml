@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\RHVhIExpcGEgLSBJbGx1c2lvbiAoT2ZmaWNpYWwgTXVzaWMgVmlkZW8p.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">4486510</Metadata>
+    <Metadata name="Source">Dua Lipa - Illusion (Official Music Video).mp3</Metadata>
+    <Metadata name="SourceFile">RHVhIExpcGEgLSBJbGx1c2lvbiAoT2ZmaWNpYWwgTXVzaWMgVmlkZW8p.mp3</Metadata>
+    <Metadata name="mp3">Dua Lipa - Illusion (Official Music Video)</Metadata>
+    <Metadata name="srcurl">RHVhIExpcGEgLSBJbGx1c2lvbiAoT2ZmaWNpYWwgTXVzaWMgVmlkZW8p.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">RHVhIExpcGEgLSBJbGx1c2lvbiAoT2ZmaWNpYWwgTXVzaWMgVmlkZW8p.mp3</Metadata>
+    <Metadata name="srclinkFile">RHVhIExpcGEgLSBJbGx1c2lvbiAoT2ZmaWNpYWwgTXVzaWMgVmlkZW8p.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="Title">Dua Lipa - Illusion (Official Music Video)</Metadata>
+    <Metadata name="Identifier">HASHfa41b1f8b09a913ef25344</Metadata>
+    <Metadata name="lastmodified">1714226198</Metadata>
+    <Metadata name="lastmodifieddate">20240427</Metadata>
+    <Metadata name="oailastmodified">1714226272</Metadata>
+    <Metadata name="oailastmodifieddate">20240427</Metadata>
+    <Metadata name="assocfilepath">HASHfa41.dir</Metadata>
+    <Metadata name="gsdlassocfile">RHVhIExpcGEgLSBJbGx1c2lvbiAoT2ZmaWNpYWwgTXVzaWMgVmlkZW8p.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>
